@@ -1,4 +1,4 @@
-# Probability and Statistics Lab Assignments
+# UMA401 Probability and Statistics Lab Assignments
 
 Personal assignments created for UMA401 Probability and Statistics in the 4th semester.
 
