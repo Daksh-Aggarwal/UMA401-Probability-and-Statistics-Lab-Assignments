@@ -1,0 +1,16 @@
+a <- c(9.3, 8.8, 6.8, 8.7, 8.5, 6.7, 8.0, 6.5, 9.2, 7.0)
+summary(a)
+length(a)
+mean(a)
+median(a)
+
+b <- c(11.0, 9.8, 9.9, 10.2, 10.1, 9.7, 11.0, 11.1, 10.2, 9.6)
+summary(b)
+length(b)
+mean(b)
+median(b)
+
+plot(a, type="l", col = "blue", ylim = c(5, 12))
+lines(b, type="l", col = "red")
+points(a)
+points(b)
